@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicMedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg">Voir les messages en console LogCat</string>
+
+    <string name="search_hint">Rechercher un produit...</string>
+    <string name="label_categorie">Catégorie</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_sort">Trier par prix</string>
+    <string name="btn_rechercher">Rechercher</string>
+    <string name="price_croissant">Prix Croissant</string>
+    <string name="price_decroissant">Prix Décroissant</string>
+    <string name="all_categories">Toutes les catégories</string>
+    <string name="all_genres">Tous les genres</string>
+    <string name="menu_detail">Voir détails</string>
+    <string name="menu_add_favori">Ajouter aux favoris</string>
+    <string name="menu_remove_favori">Retirer des favoris</string>
+    <string name="title_favoris">Mes Favoris</string>
+</resources>
